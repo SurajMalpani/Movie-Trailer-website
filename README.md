@@ -22,4 +22,3 @@ This file contains the information about the movies and its attributes which are
 
 Contact: 
 Suraj Malpani
-surajmalpani23@gmail.com
